@@ -1,0 +1,17 @@
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.exe.config
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.exe
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.pdb
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.xml
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\IrcClient.dll
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\Interop.AXVLC.dll
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\AxInterop.AXVLC.dll
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\Interop.AXVLC.dll
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\AxInterop.AXVLC.dll
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.vbproj.ResolveComReference.cache
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.Form1.resources
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.Resources.resources
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.vbproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.exe
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.xml
+c:\users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.pdb
+C:\Users\justin\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.vbprojResolveAssemblyReference.cache
